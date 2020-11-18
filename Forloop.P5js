@@ -1,0 +1,88 @@
+function setup() {
+var hieght=150
+var wiedth=500
+createCanvas(wiedth,hieght);
+}
+function draw() {
+background(mouseX,mouseY,0);
+fill(mouseX/3,mouseY/2,0)
+print(mouseX,mouseY,0)
+for (let i = 0; i < 50; i++) {
+print(i);
+square(i*10,10,10)}
+for (let c = 0; c < 50; c++) {
+print(c);
+square(c*10,20,10)}
+for (let d = 0; d < 50; d++) {
+print(d);
+square(d*10,30,10)}
+for (let u = 0; u < 50; u++) {
+print(u);
+square(u*10,60,10)}
+for (let f = 0; f < 50; f++) {
+print(f);
+square(f*10,70,10)}
+for (let e = 0; e < 50; e++) {
+print(e);
+square(e*10,80,10)}
+  {for (let o = 0; o < 50; o++) 
+print(o);
+circle(30, 50, 20);}
+{circle(50, 50, 20);}
+{circle(70, 50, 20);}
+{circle(90, 50, 20);}
+{circle(110, 50, 20)}
+{circle(130, 50, 20);}
+{circle(150, 50, 20);}
+{circle(170, 50, 20);}
+{circle(190, 50, 20);}
+{circle(210, 50, 20);}
+{circle(230, 50, 20);}
+{circle(250, 50, 20);}
+{circle(270, 50, 20);}
+{circle(290, 50, 20);}
+{circle(310, 50, 20);}
+{circle(330, 50, 20);}
+{circle(350, 50, 20);}
+{circle(370, 50, 20);}
+{circle(390, 50, 20);}
+{circle(410, 50, 20);}
+{circle(430, 50, 20);}
+{circle(450, 50, 20);}
+{circle(470, 50, 20);}
+{circle(490, 50, 20);}
+{circle(10, 100, 20);}
+{circle(30, 100, 20);}
+{circle(50, 100, 20);}
+{circle(90, 100, 20);}
+{circle(70, 100, 20 );}
+{circle(110, 100, 20)}
+{circle(130, 100, 20);}
+{circle(150, 100, 20);}
+{circle(170, 100, 20);}
+{circle(190, 100, 20);}
+{circle(210, 100, 20);}
+{circle(230, 100, 20);}
+{circle(250, 100, 20);}
+{circle(270, 100, 20);}
+{circle(290, 100, 20);}
+{circle(310, 100, 20);}
+{circle(330, 100, 20);}
+{circle(350, 100, 20);}
+{circle(370, 100, 20);}
+{circle(390, 101, 20);}
+{circle(410, 100, 20);}
+{circle(430, 100, 20);}
+{circle(450, 100, 20);}
+{circle(470, 100, 20);}
+{circle(490, 100, 20);}
+{circle(10, 50, 20);}
+for (let m = 0; m < 50; m++) {
+print(m);
+square(m*10,110,10)}
+for (let l = 0; l < 50; l++) {
+print(l);
+square(l*10,120,10)}
+for (let k = 0; k < 50; k++) {
+print(k);
+square(k*10,130,10)}}
